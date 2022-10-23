@@ -21,7 +21,7 @@ The page was made as exercise for layout and Jquery skills
 
 ## Demo
 
-Click the link to see the page 
+Click the link to see the page https://github.com/April-thunder/Seafood-shop_webpage
 
 
 
